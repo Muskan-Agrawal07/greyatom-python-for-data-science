@@ -1,6 +1,6 @@
 ### Project Overview
 
- To create a targeted marketing campaign for different segments, comig up with a comprehensive analysis of the data collected so far.
+ To create a targeted marketing campaign for different segments, coming up with a comprehensive analysis of the data collected so far.
 
 
 ### Learnings from the project
